@@ -1,0 +1,5 @@
+C:\Users\cake\Development\ViewModelTest\ViewMock\bin\Debug\ViewMockBase.dll
+C:\Users\cake\Development\ViewModelTest\ViewMock\bin\Debug\ViewMockBase.pdb
+C:\Users\cake\Development\ViewModelTest\ViewMock\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\cake\Development\ViewModelTest\ViewMock\obj\Debug\ViewMockBase.dll
+C:\Users\cake\Development\ViewModelTest\ViewMock\obj\Debug\ViewMockBase.pdb
