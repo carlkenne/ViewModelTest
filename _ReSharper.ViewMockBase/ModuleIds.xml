@@ -1,0 +1,4 @@
+<Modules>
+  <Module PersistentId="413638BF-00F9-4C0A-B9E9-9C8225360A89" ModuleId="ViewMockBase" />
+  <Module PersistentId="2246B5F9-63FF-4C19-A27C-2964443EACF7" ModuleId="Specs" />
+</Modules>
