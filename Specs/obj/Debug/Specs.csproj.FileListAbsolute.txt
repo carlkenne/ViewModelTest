@@ -1,9 +1,0 @@
-C:\Users\cake\Development\ViewModelTest\Specs\bin\Debug\Specs.dll
-C:\Users\cake\Development\ViewModelTest\Specs\bin\Debug\Specs.pdb
-C:\Users\cake\Development\ViewModelTest\Specs\bin\Debug\nunit.framework.dll
-C:\Users\cake\Development\ViewModelTest\Specs\bin\Debug\ViewMockBase.dll
-C:\Users\cake\Development\ViewModelTest\Specs\bin\Debug\ViewMockBase.pdb
-C:\Users\cake\Development\ViewModelTest\Specs\bin\Debug\nunit.framework.xml
-C:\Users\cake\Development\ViewModelTest\Specs\obj\Debug\ResolveAssemblyReference.cache
-C:\Users\cake\Development\ViewModelTest\Specs\obj\Debug\Specs.dll
-C:\Users\cake\Development\ViewModelTest\Specs\obj\Debug\Specs.pdb
